@@ -1,3 +1,4 @@
+
 # Estadísticas Móvil UNI
 
 ## 📊 Descripción del Proyecto
@@ -68,7 +69,7 @@ Este proyecto está compuesto por dos componentes principales:
 - PHP >= 8.0
 - Composer
 - Laravel 9.x o superior
-- MySQL 5.7+ / PostgreSQL 12+
+- MySQL 5.7+ / PostgreSQL 8.0+
 - Servidor web (Apache/Nginx)
 
 ## 🚀 Instalación y Configuración
